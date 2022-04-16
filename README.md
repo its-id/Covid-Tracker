@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/60315832/163673969-39d94fcc-6afb-4d7d-aa77-751a469bcac4.png)
 
+### [Live Here:](https://ikd-covid19tracker.netlify.app/)
+
 API used: https://covid19.mathdro.id/api
 
 Setup:
